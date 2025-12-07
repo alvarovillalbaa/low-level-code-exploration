@@ -1,0 +1,14 @@
+.PHONY: build test smoke clean
+
+build:
+	@echo "build me"
+
+test: build
+	@scripts/validate.sh
+
+smoke:
+	@if command -v required_tool >/dev/null 2>&1; then $(MAKE) test; else echo "skip (deps missing)"; fi
+
+clean:
+	rm -rf build
+

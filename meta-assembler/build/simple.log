@@ -1,0 +1,3 @@
+rewrite: mov -> alias
+rewrite: drop add #0
+rewrite: mov -> alias

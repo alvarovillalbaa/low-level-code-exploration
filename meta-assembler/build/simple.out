@@ -1,0 +1,2 @@
+mov_aliased x0, #5
+mov_aliased x1, #1
