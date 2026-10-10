@@ -5,7 +5,7 @@ A playground of finished, demonstrable low-level experiments: polyglot binaries,
 ## Layout
 
 - `docs/init.md` — original sequencing/requirements document.
-- `tools/` — shared helpers for format validation, disassembly, and timing harness.
+- `tools/` — shared helpers for format validation, disassembly, and timing harness; [project scaffolding](tools/project-scaffold/README.md) is copied beside the experiment it serves.
 - `trimodal-ape/` — APE/Bios/UEFI tri-boot artifact.
 - `cross-isa-same-bytes/` — x86-64 ↔ RISC-V same-bytes demo.
 - `identity-polyglot/` — PNG/EXE and WAV/ELF identity files.
