@@ -1,0 +1,1 @@
+- Moved three byte-identical authoring assets beside their tooling owner and added root catalogs; [evidence](../../../audits/2026/10-10/afs-layout.md).
