@@ -1,5 +1,9 @@
 # weird-binaries
 
+<!-- project-family:start -->
+> **Project family:** [Engineering Research](https://github.com/alvarovillalbaa#engineering-research) · **Area:** Systems
+<!-- project-family:end -->
+
 A playground of finished, demonstrable low-level experiments: polyglot binaries, loader oddities, verified packers, tiny parsers, and MOV-only boot toys. Each subproject ships with a README, build/test/demo targets, and validation scripts.
 
 ## Layout
